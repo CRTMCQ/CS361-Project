@@ -1,3 +1,12 @@
+# Main Project - Getting Started
+This is a simple project that utilizes the Spotipy python library to search the Spotify Web API. Current features include seeing a list of an artist's albums, and an artist's top 10 songs.
+The main project runs from the files: <b>main.py</b>, and <b>myFunctions.py</b>
+
+With the current authentication method, accessing the Spotify Web API requires the creation of a Spotify app, through the dashboard here: https://developer.spotify.com/dashboard
+
+Will likely need to install the Spotipy library https://spotipy.readthedocs.io/en/2.22.1/ .
+Be sure to follow the setup instructions provided there to set up the proper environment variables.
+
 # Microservice - Set Up
 My microservice can be found in the file: <b>soundtrackMicro.py</b>
 
