@@ -1,5 +1,4 @@
 import pika
-import webbrowser
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
