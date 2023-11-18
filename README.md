@@ -10,6 +10,8 @@ Be sure to follow the setup instructions provided there to set up the proper env
 # Microservice - Set Up
 My microservice can be found in the file: <b>soundtrackMicro.py</b>
 
+This microservice is designed to take in a movie title (string value) through a RabbitMQ server, and will return a URL to that movie's soundtrack album on Spotify (when possible).
+
 <b>Requirements</b>
 
 With the current authentication method, accessing the Spotify Web API requires the creation of a Spotify app, through the dashboard here: https://developer.spotify.com/dashboard
